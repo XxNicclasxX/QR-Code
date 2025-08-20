@@ -1,0 +1,20 @@
+body{
+    background-color: #d6e2f0;
+}
+
+.container-ext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+    transform: translate(-50%m -50%);
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 5px 10px 15px rgba(0,0,0,0.5);
+}
